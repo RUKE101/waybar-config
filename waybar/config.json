@@ -122,8 +122,6 @@
     },
  
 
-
-    },
     "cpu": {
       "interval": 1,
       "on-click": "foot --title=\"Htop\" --app-id=\"htop\" htop --sort-key=PERCENT_CPU",
